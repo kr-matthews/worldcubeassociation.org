@@ -346,7 +346,8 @@ GEM
     iso (0.2.2)
       i18n
     jaro_winkler (1.5.4)
-    jbuilder (2.11.3)
+    jbuilder (2.11.5)
+      actionview (>= 5.0.0)
       activesupport (>= 5.0.0)
     jmespath (1.4.0)
     js_cookie_rails (2.2.0)
@@ -395,7 +396,7 @@ GEM
     mini_magick (4.11.0)
     mini_mime (1.1.2)
     mini_portile2 (2.6.1)
-    minitest (5.14.4)
+    minitest (5.15.0)
     monetize (1.11.0)
       money (~> 6.12)
     money (6.16.0)
