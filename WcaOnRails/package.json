@@ -20,7 +20,7 @@
     "@babel/preset-react": "^7.22.5",
     "@babel/runtime": "^7.22.11",
     "@cubing/icons": "^1.0.8",
-    "@rails/ujs": "^6.1.7",
+    "@rails/ujs": "^7.1.1",
     "autonumeric": "^4.9.0",
     "autoprefixer": "^10.4.15",
     "autosize": "^6.0.1",
