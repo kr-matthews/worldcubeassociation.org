@@ -408,16 +408,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/plugin-proposal-function-sent@npm:^7.25.7":
-  version: 7.25.7
-  resolution: "@babel/plugin-proposal-function-sent@npm:7.25.7"
+"@babel/plugin-proposal-function-sent@npm:^7.25.8":
+  version: 7.25.8
+  resolution: "@babel/plugin-proposal-function-sent@npm:7.25.8"
   dependencies:
     "@babel/helper-plugin-utils": "npm:^7.25.7"
     "@babel/helper-wrap-function": "npm:^7.25.7"
-    "@babel/plugin-syntax-function-sent": "npm:^7.25.7"
   peerDependencies:
     "@babel/core": ^7.0.0-0
-  checksum: 10c0/1b8813231a83642cd3372afcefc8eeb7680a0e6f5ce0834ea8dedcde3bbfdd6763cde1ff5fe27764f20ee7b537865261e572df5cf0adaafb3c83247c5be2b9e4
+  checksum: 10c0/8e76877cc81d3d863eba376752411f44634ef441a23ad988f7af114d34adc5c9bf7056fdcd468f402ad56156d0ca55f2fd11c999902ff5ed1b8c5668395de6d1
   languageName: node
   linkType: hard
 
@@ -554,17 +553,6 @@ __metadata:
   peerDependencies:
     "@babel/core": ^7.0.0-0
   checksum: 10c0/5100d658ba563829700cd8d001ddc09f4c0187b1a13de300d729c5b3e87503f75a6d6c99c1794182f7f1a9f546ee009df4f15a0ce36376e206ed0012fa7cdc24
-  languageName: node
-  linkType: hard
-
-"@babel/plugin-syntax-function-sent@npm:^7.25.7":
-  version: 7.25.7
-  resolution: "@babel/plugin-syntax-function-sent@npm:7.25.7"
-  dependencies:
-    "@babel/helper-plugin-utils": "npm:^7.25.7"
-  peerDependencies:
-    "@babel/core": ^7.0.0-0
-  checksum: 10c0/c1a745ac1b090204872c8a8363173e5eaf6986d554cbd537a73bbded821c34ff6059dfd6ab54a554c15d45d24274c4b0d7f964a765d6b2e423c606e6ee23ba3a
   languageName: node
   linkType: hard
 
@@ -10121,7 +10109,7 @@ __metadata:
     "@babel/plugin-proposal-class-properties": "npm:^7.17.12"
     "@babel/plugin-proposal-decorators": "npm:^7.25.7"
     "@babel/plugin-proposal-export-namespace-from": "npm:^7.18.9"
-    "@babel/plugin-proposal-function-sent": "npm:^7.25.7"
+    "@babel/plugin-proposal-function-sent": "npm:^7.25.8"
     "@babel/plugin-proposal-json-strings": "npm:^7.14.5"
     "@babel/plugin-proposal-numeric-separator": "npm:^7.14.5"
     "@babel/plugin-proposal-private-methods": "npm:^7.18.6"
