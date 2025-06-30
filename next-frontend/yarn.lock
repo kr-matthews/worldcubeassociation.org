@@ -2041,6 +2041,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@payloadcms/translations@npm:3.44.0":
+  version: 3.44.0
+  resolution: "@payloadcms/translations@npm:3.44.0"
+  dependencies:
+    date-fns: "npm:4.1.0"
+  checksum: 10c0/8efeb339b476b54e3d72a52bed8d034db4140c7988b47ece3eae4bf5a814c4adb2e475fb0f72afee65b17680cffc06b4269505ff1d170b6710a6d81076c8ec91
+  languageName: node
+  linkType: hard
+
 "@payloadcms/ui@npm:3.39.1, @payloadcms/ui@npm:^3.16.0":
   version: 3.39.1
   resolution: "@payloadcms/ui@npm:3.39.1"
@@ -6682,6 +6691,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"ipaddr.js@npm:2.2.0":
+  version: 2.2.0
+  resolution: "ipaddr.js@npm:2.2.0"
+  checksum: 10c0/e4ee875dc1bd92ac9d27e06cfd87cdb63ca786ff9fd7718f1d4f7a8ef27db6e5d516128f52d2c560408cbb75796ac2f83ead669e73507c86282d45f84c5abbb6
+  languageName: node
+  linkType: hard
+
 "is-alphabetical@npm:^1.0.0":
   version: 1.0.4
   resolution: "is-alphabetical@npm:1.0.4"
@@ -7645,7 +7661,7 @@ __metadata:
     next-themes: "npm:^0.4.6"
     openapi-fetch: "npm:^0.14.0"
     openapi-typescript: "npm:^7.8.0"
-    payload: "npm:^3.39.1"
+    payload: "npm:^3.44.0"
     payload-authjs: "npm:^0.8.2"
     prettier: "npm:^3.5.3"
     react: "npm:^19.1.0"
@@ -8174,12 +8190,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"payload@npm:^3.39.1":
-  version: 3.39.1
-  resolution: "payload@npm:3.39.1"
+"payload@npm:^3.44.0":
+  version: 3.44.0
+  resolution: "payload@npm:3.44.0"
   dependencies:
     "@next/env": "npm:^15.1.5"
-    "@payloadcms/translations": "npm:3.39.1"
+    "@payloadcms/translations": "npm:3.44.0"
     "@types/busboy": "npm:1.5.4"
     ajv: "npm:8.17.1"
     bson-objectid: "npm:2.0.4"
@@ -8193,6 +8209,7 @@ __metadata:
     get-tsconfig: "npm:4.8.1"
     http-status: "npm:2.1.0"
     image-size: "npm:2.0.2"
+    ipaddr.js: "npm:2.2.0"
     jose: "npm:5.9.6"
     json-schema-to-typescript: "npm:15.0.3"
     minimist: "npm:1.2.8"
@@ -8205,13 +8222,14 @@ __metadata:
     scmp: "npm:2.1.0"
     ts-essentials: "npm:10.0.3"
     tsx: "npm:4.19.2"
+    undici: "npm:7.10.0"
     uuid: "npm:10.0.0"
     ws: "npm:^8.16.0"
   peerDependencies:
     graphql: ^16.8.1
   bin:
     payload: bin.js
-  checksum: 10c0/d04b2cfdbe1417d43ccb8f4e034f5708c28177a1426288cbb4cc3f452fa2218fd709fb18fe7630c46775f5dae5df22d260407d5a40b45c316fc14a199f9b799f
+  checksum: 10c0/e630db20ca4ac43efa93cb413b92bc624b8f5cc761c9da9866daca9b379269c8c837ec9f3554dfabcb415beb7bc673e0198b2a711e8fa9fb38681d1b23b91edd
   languageName: node
   linkType: hard
 
@@ -10145,6 +10163,13 @@ __metadata:
   version: 6.21.0
   resolution: "undici-types@npm:6.21.0"
   checksum: 10c0/c01ed51829b10aa72fc3ce64b747f8e74ae9b60eafa19a7b46ef624403508a54c526ffab06a14a26b3120d055e1104d7abe7c9017e83ced038ea5cf52f8d5e04
+  languageName: node
+  linkType: hard
+
+"undici@npm:7.10.0":
+  version: 7.10.0
+  resolution: "undici@npm:7.10.0"
+  checksum: 10c0/756ac876a8df845bc89eb8348c35d33a0ff63c17eb45b664075c961a7fbd4a398f94f9dce438262f55fe66e4bbb0a46aa63a3fd58ce51361c616aff11a270450
   languageName: node
   linkType: hard
 
