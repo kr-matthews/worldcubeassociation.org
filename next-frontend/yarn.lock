@@ -5610,14 +5610,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/eslint-plugin-query@npm:^5.86.0":
-  version: 5.86.0
-  resolution: "@tanstack/eslint-plugin-query@npm:5.86.0"
+"@tanstack/eslint-plugin-query@npm:^5.89.0":
+  version: 5.89.0
+  resolution: "@tanstack/eslint-plugin-query@npm:5.89.0"
   dependencies:
     "@typescript-eslint/utils": "npm:^8.37.0"
   peerDependencies:
     eslint: ^8.57.0 || ^9.0.0
-  checksum: 10c0/0e90d77bca3d91645c9972a390d2e58cac59e377dbc75bfd7e5ccde7bd2b619d931f82708cd59bd3c89993410afad33f26f7fca261e36d336d661064b88c1536
+  checksum: 10c0/5e58c4bf09af67c592ee0017f60737afd50dc67ea8fc7a5c658231840a644090d1a70d06fbdd78ac09a0fedd2cd6f7d3f910e9550ddf53528da32b537099b94f
   languageName: node
   linkType: hard
 
@@ -13189,7 +13189,7 @@ __metadata:
     "@payloadcms/storage-s3": "npm:3.55.0"
     "@redocly/cli": "npm:2.0.8"
     "@stylistic/eslint-plugin": "npm:^5.3.1"
-    "@tanstack/eslint-plugin-query": "npm:^5.86.0"
+    "@tanstack/eslint-plugin-query": "npm:^5.89.0"
     "@tanstack/react-query": "npm:^5.87.4"
     "@testing-library/dom": "npm:^10.4.1"
     "@testing-library/jest-dom": "npm:^6.8.0"
